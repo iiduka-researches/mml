@@ -5,7 +5,7 @@
 ``
 <> Code 
 ``
-ボタン→
+→
 ``
 Download ZIP / ZIP のダウンロード
 ``

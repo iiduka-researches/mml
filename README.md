@@ -7,7 +7,7 @@
 ``
 ボタン→
 ``
-Download Zip / Zip のダウンロード
+Download ZIP / ZIP のダウンロード
 ``
 から解答例をダウンロードできます。
 

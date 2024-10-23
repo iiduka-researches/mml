@@ -11,6 +11,8 @@ Download ZIP / ZIP のダウンロード
 ``
 から解答例をダウンロードできます。
 
+正誤表は[Wiki](https://github.com/iiduka-researches/mml/wiki)を参照してください。
+
 ## Book Info
 * Title: [機械学習のための数学](https://www.coronasha.co.jp/np/isbn/9784339061321/)
 * Author: [飯塚秀明](https://iiduka.net/iiduka/default)
